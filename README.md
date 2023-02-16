@@ -1,6 +1,6 @@
-# Simple React Todo App
+# Simple React To-Do App
 
-This is a simple React Todo App that uses a number of react concepts including Hooks (useState, UseEffect, useRef), LocalStorage and basic CSS styling.
+This is a simple React To-Do App that uses a number of react concepts including Hooks (useState, UseEffect, useRef), LocalStorage and basic CSS styling.
 
 It is mainly based on the application described in this video: https://www.youtube.com/watch?v=hQAHSlTtcmY&t=6s
 
@@ -17,5 +17,5 @@ npm start
 
 ## Sample screen output:
 
-<img width="444" alt="image" src="https://user-images.githubusercontent.com/38525955/218565178-2193147d-dd13-4c76-a2a1-3c9bcd8e3dab.png">
+<img width="356" alt="image" src="https://user-images.githubusercontent.com/38525955/219486769-3f426bde-0345-44f3-9f22-a35910291971.png">
 
