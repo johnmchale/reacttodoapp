@@ -65,10 +65,10 @@ function App() {
         alignItems: 'center',
       }}
     >
-      <h2>Todo App</h2>
+      <h2>To-Do App</h2>
 
       <label>
-        add todo:{' '}
+        add To-Do:{' '}
         <input
           className={styles.buttonWithBottomMargin}
           ref={todoNameRef}
@@ -87,13 +87,13 @@ function App() {
         className={`${styles.bootstrapStyleSecondaryButton} ${styles.buttonWithBottomMargin}`}
         onClick={handleClearCompletedTodos}
       >
-        Clear Completed Todos
+        Clear Completed To-Dos
       </button>
       <button
         className={`${styles.bootstrapStyleSecondaryButton} ${styles.buttonWithBottomMargin}`}
         onClick={handleClearAllTodos}
       >
-        Clear ALL Todos
+        Clear ALL To-Dos
       </button>
 
       {todos.length > 0 && (
